@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+env/
+app.db
+geckodriver.log
+.cache/
+*.bak
